@@ -2,6 +2,8 @@
 
 按周次 + 知识点分类整理蓝桥杯 / 算法题练习代码。
 
+GitHub：https://github.com/jiny2551-stack/LanQ
+
 ## 目录结构
 
 ```text
