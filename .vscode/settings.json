@@ -1,0 +1,8 @@
+﻿{
+  "python.defaultInterpreterPath": "python",
+  "editor.formatOnSave": true,
+  "files.encoding": "utf8",
+  "[python]": {
+    "editor.tabSize": 4
+  }
+}
